@@ -1,0 +1,42 @@
+[submodule "rex-app"]
+	path = rex-app
+	url = https://github.com/rex/rex-app
+[submodule "rex-bundle"]
+	path = rex-bundle
+	url = https://github.com/rex/rex-bundle
+[submodule "rex-config"]
+	path = rex-config
+	url = https://github.com/rex/rex-config
+[submodule "rex-exec"]
+	path = rex-exec
+	url = https://github.com/rex/rex-exec
+[submodule "rex-foreman"]
+	path = rex-foreman
+	url = https://github.com/rex/rex-foreman
+[submodule "rex-git"]
+	path = rex-git
+	url = https://github.com/rex/rex-git
+[submodule "rex-mongo"]
+	path = rex-mongo
+	url = https://github.com/rex/rex-mongo
+[submodule "rex-npm"]
+	path = rex-npm
+	url = https://github.com/rex/rex-npm
+[submodule "rex-redis"]
+	path = rex-redis
+	url = https://github.com/rex/rex-redis
+[submodule "rex-shell"]
+	path = rex-shell
+	url = https://github.com/rex/rex-shell
+[submodule "rex-suite"]
+	path = rex-suite
+	url = https://github.com/rex/rex-suite
+[submodule "rex-template"]
+	path = rex-template
+	url = https://github.com/rex/rex-template
+[submodule "rex-utils"]
+	path = rex-utils
+	url = https://github.com/rex/rex-utils
+[submodule "rex-whoami"]
+	path = rex-whoami
+	url = https://github.com/rex/rex-whoami
